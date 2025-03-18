@@ -1,5 +1,4 @@
 ---
 title: Het Leven Van Een Scholier
 ---
-# Een titel
-# Nog een titel
+# het leven van een scholie is soms best zwaar vooral met een Erik
