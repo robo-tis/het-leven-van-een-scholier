@@ -1,8 +1,7 @@
 ---
 title: Het Leven Van Een Scholier
 ---
-# Het  leven van een scholier is heel zwaar daarom een paar tips 
 
-* zorg dat je niet bij rare in de klas zit wat er oook gebeurt 
+# de afkorting is LES
 
-* zorg dat 
+## als je het hierover wilt hebben zeg je dat dit L.E.S. is.
